@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Kondratiuk"]
+	path = SubmoduleRepository_Kondratiuk
+	url = https://github.com/foreboding-sky/SubmoduleRepository_Kondratiuk
